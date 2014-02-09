@@ -150,7 +150,7 @@ public class ExpressionSolver {
             case "sqr":
                 ret = val * val;
                 break;
-            case "ln":
+            case "nLog":
                 ret = Math.log(val);
                 break;
             case "log":
